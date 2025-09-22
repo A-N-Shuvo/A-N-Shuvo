@@ -4,7 +4,6 @@
 📧 **Email:** mdabunayeemshuvo@gmail.com  
 📱 **Phone:** +8801516709633 | +8801701013988  
 🔗 **LinkedIn:** [md-abu-nayeem-shuvo](https://www.linkedin.com/in/md-abu-nayeem-shuvo)  
-🌐 **GitHub:** [github.com/A-N-Shuvo](https://github.com/A-N-Shuvo)  
 
 ---
 
