@@ -1,7 +1,7 @@
 # 👨‍💻 Md. Abu Nayeem  
 **.NET Developer | Full-Stack Enthusiast**
 
-![Profile Image]([URL_TO_YOUR_IMAGE](https://github.com/A-N-Shuvo/Portfolio/blob/main/DotNetShuvo.jpg)) <!-- এখানে আপনার ছবি URL দিন -->
+![Cover Image](https://github.com/A-N-Shuvo/Portfolio/blob/main/DotNetShuvo.jpg)
 
 ---
 
@@ -12,28 +12,35 @@
 
 ---
 
-## 🛠️ Skills
-- **Frontend:** HTML, CSS, JS, Angular, React, MAUI  
-- **Backend:** ASP.NET Core, Web API, C#, ADO.NET  
-- **Database:** MSSQL, EF Core, Stored Procedures  
-- **Tools:** Visual Studio, VS Code, Git, Postman, Swagger  
+## 💡 About Me  
+Passionate **.NET Developer** with experience in building scalable applications using **ASP.NET Core, Angular, React, and MSSQL**.  
+I focus on **clean code, teamwork, and continuous learning** to deliver meaningful results.  
 
 ---
 
-## 📂 Projects (Highlights)
-- **Center Management:** Training center system with multi-platform frontends  
-- **E-Commerce Inventory API:** Secure API with JWT, CRUD, search & pagination  
-- **CattleFarmingDB:** Relational DB with stored procedures & triggers  
-- **SPA Order Management:** Real-time order handling with inline editing  
+## 🛠️ Skills
+- **Frontend:** HTML, CSS, JavaScript, Angular, React, MAUI  
+- **Backend:** ASP.NET Core MVC, Web API, C#, ADO.NET  
+- **Database:** MSSQL, EF Core, Stored Procedures, Triggers  
+- **Tools:** Visual Studio, VS Code, Git & GitHub, Postman, Swagger  
 
-👉 Visit my repositories for details.  
+---
+
+## 📂 Project Highlights
+- **Training Center Management** → Multi-platform training system with role-based access  
+- **E-Commerce Inventory API** → Secure REST API with JWT, CRUD, filtering & pagination  
+- **CattleFarmingDB** → Relational DB with stored procedures, triggers & automation  
+- **SPA Order Management** → Real-time order handling with inline editing  
+
+🔗 *Explore more in my repositories.*  
 
 ---
 
 ## 🤝 Soft Skills
-- Strong communicator & team player  
-- Adaptive and consistent under pressure  
+- Strong communicator & collaborative team player  
+- Adaptive under pressure & solution-oriented  
+- Curious, consistent, and growth-focused  
 
 ---
 
-✨ *Eager to contribute, collaborate, and build impactful software solutions.*  
+✨ *Always eager to contribute, collaborate, and build impactful software solutions.*  
