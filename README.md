@@ -9,7 +9,7 @@
 
 ## 💡 About Me  
 I am a passionate **Software Developer** with hands-on experience in building scalable applications using  
-**.NET (DDD Architecture)**, **Angular**, and **React (TypeScript)**.  
+**.NET Core**, **Angular**, and **React (TypeScript)**.  
 
 ✨ Committed to **continuous learning**, **clean code practices**, and **collaboration** to achieve meaningful results.  
 
