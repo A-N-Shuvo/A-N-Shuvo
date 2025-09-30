@@ -28,7 +28,7 @@ I focus on **clean code, teamwork, and continuous learning** to deliver meaningf
 
 ## 📂 Project Highlights
 - **Training Center Management** → Multi-platform training system with role-based access  
-- **E-Commerce Inventory API** → Secure REST API with JWT, CRUD, filtering & pagination  
+- **E-Commerce Inventory API** → Secure REST API with JWT, Domain Driven Design (DDD), filtering & pagination  
 - **CattleFarmingDB** → Relational DB with stored procedures, triggers & automation  
 - **SPA Order Management** → Real-time order handling with inline editing  
 
