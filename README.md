@@ -32,7 +32,7 @@ I focus on **clean code, teamwork, and continuous learning** to deliver meaningf
 - **CattleFarmingDB** → Relational DB with stored procedures, triggers & automation  
 - **SPA Order Management** → Real-time order handling with inline editing  
 
-🔗 *Explore more in my repositories.*  
+🔗 [Explore more in my repositories](https://github.com/A-N-Shuvo?tab=repositories)   
 
 ---
 
