@@ -1,3 +1,5 @@
+![Cover Image](https://github.com/A-N-Shuvo/Portfolio/blob/main/FirstPortfolioPhoto.jpg?raw=true)
+
 # 👨‍💻 Md. Abu Nayeem  
 **.NET Developer | Full-Stack Enthusiast**  
 
