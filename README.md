@@ -1,7 +1,7 @@
 # 👨‍💻 Md. Abu Nayeem  
 **.NET Developer | Full-Stack Enthusiast**
 
-![Cover Image](https://github.com/A-N-Shuvo/Portfolio/blob/main/ProgrammersJob.jpg)
+![Cover Image](https://github.com/A-N-Shuvo/Portfolio/blob/main/DotNetShuvo.jpg)
 
 ---
 
