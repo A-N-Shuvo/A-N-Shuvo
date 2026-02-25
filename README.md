@@ -6,9 +6,9 @@
 ---
 
 ## 📬 Contact
-| Email | Phone | LinkedIn |
-|-------|-------|----------|
-| mdabunayeemshuvo@gmail.com | +8801516709633 / +8801701013988 | [LinkedIn](https://www.linkedin.com/in/md-abu-nayeem-shuvo) |
+| Email | LinkedIn |
+|-------|----------|
+| mdabunayeemshuvo@gmail.com | [LinkedIn](https://www.linkedin.com/in/md-abu-nayeem-shuvo) |
 
 ---
 
