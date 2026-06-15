@@ -53,37 +53,41 @@ An enthusiastic and analytical Software Developer with a strong foundation in Ph
 
 ## 📂 Featured Projects & Contributions
 
-<table width="100%">
+<table width="100%" cellpadding="8" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Training Center Management</h3>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
+      <h3>🎓 Training Center Management (Monorepo Ecosystem)</h3>
       <p>Led a 4-member team to build a multi-platform training management system with role-based access, user lifecycles, and certificate issuance.</p>
       <code>ASP.NET Core MVC</code> <code>Web-API</code> <code>Angular</code> <code>React</code> <code>MSSQL</code>
       <br><br>
-      <a href="https://github.com/A-N-Shuvo?tab=repositories"><b>⭐ View Project »</b></a>
+      <b>🔗 Explore Components:</b><br>
+      • <a href="https://github.com/A-N-Shuvo/Training-Center-Management">ASP.NET Core MVC App</a><br>
+      • <a href="https://github.com/A-N-Shuvo/Training-Center-API">Centralized Web API</a><br>
+      • <a href="https://github.com/A-N-Shuvo/Training-Center-Angular">Angular Client Portal</a><br>
+      • <a href="https://github.com/A-N-Shuvo/Training-Center-React">React Analytics Dashboard</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
       <h3>🛒 E-Commerce Inventory API</h3>
-      <p>A secure RESTful API built with Domain-Driven Design (DDD), featuring JWT authentication, advanced filtering, and pagination.</p>
+      <p>A secure RESTful API built with <b>Domain-Driven Design (DDD)</b>, featuring JWT authentication, advanced filtering, searching, and pagination.</p>
       <code>.NET Core Web-API</code> <code>EF Core</code> <code>MSSQL</code> <code>JWT</code> <code>DDD</code>
-      <br><br>
-      <a href="https://github.com/A-N-Shuvo?tab=repositories"><b>⭐ View Project »</b></a>
+      <br><br><br><br>
+      <a href="https://github.com/A-N-Shuvo/ECommerceInventory_with_DDD"><b>⭐ View Project Repository »</b></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
       <h3>💼 HR & Payroll Management System</h3>
-      <p>Enterprise system implementing Unit of Work and Repository Patterns with PostgreSQL Stored Procedures for automated monthly payroll and reporting.</p>
+      <p>Enterprise system implementing Unit of Work and Repository Patterns with PostgreSQL Stored Procedures for automated monthly payroll and custom reporting.</p>
       <code>ASP.NET Core</code> <code>PostgreSQL</code> <code>QuestPDF</code> <code>Ajax/jQuery</code>
-      <br><br>
-      <a href="https://github.com/A-N-Shuvo?tab=repositories"><b>⭐ View Project »</b></a>
+      <br><br><br>
+      <a href="https://github.com/A-N-Shuvo/HR_Management_System"><b>⭐ View Project Repository »</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>📦 Comprehensive Inventory System</h3>
-      <p>Robust system to manage inventory and procurement operations, implementing workflows like Requisition, Purchase Order, and Gate Pass.</p>
-      <code>ASP.NET Core MVC</code> <code>Web-API</code> <code>Angular</code> <code>MSSQL</code>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
+      <h3>📦 SPA Order Management (Master-Detail)</h3>
+      <p>Robust Single Page Application (SPA) designed to manage real-time inventory procurement workflows like Requisition, Purchase Order, and Gate Pass with inline editing.</p>
+      <code>ASP.NET Core MVC</code> <code>ADO.NET</code> <code>jQuery/JS</code> <code>MSSQL</code>
       <br><br>
-      <a href="https://github.com/A-N-Shuvo?tab=repositories"><b>⭐ View Project »</b></a>
+      <a href="https://github.com/A-N-Shuvo/Master-Details_SinglePageApplication_Core_CF"><b>⭐ View Project Repository »</b></a>
     </td>
   </tr>
 </table>
