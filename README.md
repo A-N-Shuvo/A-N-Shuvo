@@ -21,14 +21,15 @@ I focus on **clean code, teamwork, and continuous learning** to deliver meaningf
 ## 🛠️ Skills
 - **Frontend:** HTML, CSS, JavaScript, Angular, React, MAUI  
 - **Backend:** ASP.NET Core MVC, Web API, C#, ADO.NET  
-- **Database:** MSSQL, EF Core, Stored Procedures, Triggers  
-- **Tools:** Visual Studio, VS Code, Git & GitHub, Postman, Swagger  
+- **Database:** MSSQL, Oracle, PostgreSQL  
+- **Tools:** Visual Studio, VS Code, Git & GitHub, Postman, Swagger, pgAdmin4, SQL Server, Oracle 19c  
 
 ---
 
 ## 📂 Project Highlights
 - **Training Center Management** → Multi-platform training system with role-based access  
-- **E-Commerce Inventory API** → Secure REST API with JWT, Domain Driven Design (DDD), filtering & pagination  
+- **E-Commerce Inventory API** → Secure REST API with JWT, Domain Driven Design (DDD), filtering & pagination
+- **HR_Management_System** →  Multi-company support, Employee & Attendance, Advanced Reporting, Unit of Work & Repository Pattern
 - **CattleFarmingDB** → Relational DB with stored procedures, triggers & automation  
 - **SPA Order Management** → Real-time order handling with inline editing  
 
