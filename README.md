@@ -6,7 +6,7 @@
 ---
 
 ## 💡 About Me  
-[cite_start]An enthusiastic and analytical Software Developer with a strong foundation in Physics and an intense passion for building scalable, enterprise-level web applications[cite: 7, 8, 46]. [cite_start]Specializing in the .NET ecosystem, modern frontend frameworks, and clean coding practices[cite: 1, 18, 19]. [cite_start]Experienced in the full Software Development Life Cycle (SDLC), from requirement gathering to seamless deployment[cite: 9, 13].
+An enthusiastic and analytical Software Developer with a strong foundation in Physics and an intense passion for building scalable, enterprise-level web applications. Specializing in the .NET ecosystem, modern frontend frameworks, and clean coding practices. Experienced in the full Software Development Life Cycle (SDLC), from requirement gathering to seamless deployment.
 
 ---
 
@@ -36,9 +36,9 @@
 ![Entity Framework Core](https://img.shields.io/badge/.NET%20EF%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 #### ⚙️ Architecture, Security & Reporting
-- [cite_start]**Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), Repository Pattern, Unit of Work, SOLID Principles [cite: 36, 41]
-- [cite_start]**Security & Lifecycle:** JWT Authentication, Role-based Access & Authorization, Transaction Management [cite: 18, 24, 40]
-- [cite_start]**Reporting Tools:** Crystal Reports, Rotativa, RDLC Reports, Quest PDF [cite: 21, 37, 38]
+- **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), Repository Pattern, Unit of Work, SOLID Principles
+- **Security & Lifecycle:** JWT Authentication, Role-based Access & Authorization, Transaction Management
+- **Reporting Tools:** Crystal Reports, Rotativa, RDLC Reports, Quest PDF
 
 #### 🛠️ Tools & DevOps
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -51,36 +51,66 @@
 
 ---
 
-## 📂 Project Highlights
+## 📂 Featured Projects & Contributions
 
-* [cite_start]**🎓 Training Center Management (Team Project)** Led a 4-member team to build a multi-platform training management system with role-based access, user lifecycles, enrollments, and certificate issuance[cite: 23, 24].  
-  [cite_start]*Tech Stack:* MSSQL, ASP.NET Core MVC, Web-API, Angular, React [cite: 25]
-* [cite_start]**🛒 E-Commerce Inventory API (DDD)** A secure RESTful API built with Domain-Driven Design (DDD), featuring JWT authentication, advanced filtering, and pagination[cite: 39, 40, 41].  
-  [cite_start]*Tech Stack:* .NET Core Web-API, EF Core, MSSQL, JWT, Swagger [cite: 41]
-* [cite_start]**💼 HR Management System & Procurement** Enterprise system implementing Unit of Work and Repository Patterns with PostgreSQL Stored Procedures for automated monthly payroll and advanced reporting[cite: 28, 34, 36, 37].  
-  [cite_start]*Tech Stack:* ASP.NET Core, Ajax/jQuery, PostgreSQL, Quest PDF [cite: 38]
-* **🌾 CattleFarmingDB** Relational database system utilizing advanced stored procedures, triggers, and automated workflows.  
-* [cite_start]**📊 SPA Order Management (Master-Detail)** Single Page Application (SPA) focusing on real-time order handling and transaction management using Code-First approach[cite: 18, 41, 42].  
-  [cite_start]*Tech Stack:* ADO.NET, MSSQL, JavaScript/jQuery [cite: 18, 42]
-
-🔗 [Explore more in my repositories](https://github.com/A-N-Shuvo?tab=repositories)   
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Training Center Management</h3>
+      <p>Led a 4-member team to build a multi-platform training management system with role-based access, user lifecycles, and certificate issuance.</p>
+      <code>ASP.NET Core MVC</code> <code>Web-API</code> <code>Angular</code> <code>React</code> <code>MSSQL</code>
+      <br><br>
+      <a href="https://github.com/A-N-Shuvo?tab=repositories"><b>⭐ View Project »</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 E-Commerce Inventory API</h3>
+      <p>A secure RESTful API built with Domain-Driven Design (DDD), featuring JWT authentication, advanced filtering, and pagination.</p>
+      <code>.NET Core Web-API</code> <code>EF Core</code> <code>MSSQL</code> <code>JWT</code> <code>DDD</code>
+      <br><br>
+      <a href="https://github.com/A-N-Shuvo?tab=repositories"><b>⭐ View Project »</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 HR & Payroll Management System</h3>
+      <p>Enterprise system implementing Unit of Work and Repository Patterns with PostgreSQL Stored Procedures for automated monthly payroll and reporting.</p>
+      <code>ASP.NET Core</code> <code>PostgreSQL</code> <code>QuestPDF</code> <code>Ajax/jQuery</code>
+      <br><br>
+      <a href="https://github.com/A-N-Shuvo?tab=repositories"><b>⭐ View Project »</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 Comprehensive Inventory System</h3>
+      <p>Robust system to manage inventory and procurement operations, implementing workflows like Requisition, Purchase Order, and Gate Pass.</p>
+      <code>ASP.NET Core MVC</code> <code>Web-API</code> <code>Angular</code> <code>MSSQL</code>
+      <br><br>
+      <a href="https://github.com/A-N-Shuvo?tab=repositories"><b>⭐ View Project »</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🔭 Professional Experience & Background
 - 💼 Currently working as a **Management Trainee** at [Genuine Technology & Research Ltd. (GTR)](https://gtrbd.com/)
-- [cite_start]🚀 Previously worked as a **Software Implementation & Developer** at [AGMM Soft](https://www.agmmsoft.com/)[cite: 12].
-- [cite_start]🎓 Completed intensive IT training in **Cross-Platform Apps (ASP.NET & Angular)** under the prestigious **IsDB-BISEW IT Scholarship Programme (Round-62)**[cite: 44].
+- 🚀 Previously worked as a **Software Implementation & Developer** at [AGMM Soft](https://www.agmmsoft.com/).
+- 🎓 Completed intensive IT training in **Cross-Platform Apps (ASP.NET & Angular)** under the prestigious **IsDB-BISEW IT Scholarship Programme (Round-62)**.
 - 🌱 Deep-diving into **Clean Architecture**, **CQRS (MediatR)**, and **Microservices**.
-- [cite_start]⚙️ Skilled in the full SDLC, system integration, and advanced technical support[cite: 9, 13, 14].
-- [cite_start]⚡ **Analytical Mindset:** My Bachelor of Science in Physics from the [University of Chittagong](https://www.cu.ac.be/) trained me to analyze complex software architectures through a highly structured and logical lens[cite: 13, 46].
-- [cite_start]👥 **Community Leadership:** Co-founder and Founding Vice President of the social organization **Lighter Bangladesh**[cite: 10].
+- ⚙️ Skilled in the full SDLC, system integration, and advanced technical support.
+- ⚡ **Analytical Mindset:** My Bachelor of Science in Physics from the [University of Chittagong](https://cu.ac.bd/) trained me to analyze complex software architectures through a highly structured and logical lens.
+- 👥 **Community Leadership:** Co-founder and Founding Vice President of the social organization **Lighter Bangladesh**.
 
 ---
 
-### 📊 GitHub Stats
-![Shuvo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-N-Shuvo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-N-Shuvo&layout=compact&theme=radical)
+### 📊 GitHub Stats & Activities
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=A-N-Shuvo&show_icons=true&theme=radical" alt="Shuvo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-N-Shuvo&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-N-Shuvo&theme=radical" alt="Shuvo's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-N-Shuvo&theme=github-dark" alt="Shuvo's Activity Graph" />
+</p>
 
 ---
 
@@ -88,6 +118,4 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abu-nayeem-shuvo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdabunayeemshuvo@gmail.com)
 
-✨ *Always eager to contribute, collaborate, and build impactful software solutions.* ```
-
----
+✨ *Always eager to contribute, collaborate, and build impactful software solutions.*
