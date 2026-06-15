@@ -18,7 +18,7 @@ I focus on **clean code, teamwork, and continuous learning** to deliver meaningf
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Expertise
 - **Frontend:** HTML, CSS, JavaScript, Angular, React, MAUI  
 - **Backend:** ASP.NET Core MVC, Web API, C#, ADO.NET  
 - **Database:** MSSQL, Oracle, PostgreSQL  
