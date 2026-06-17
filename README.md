@@ -90,7 +90,7 @@ An enthusiastic and analytical Software Developer with a strong foundation in Ph
 ### 🔭 Professional Experience & Background
 - 💼 Currently working as a **Management Trainee** at [Genuine Technology & Research Ltd. (GTR)](https://gtrbd.com/).
 - 🚀 Previously worked as a **Software Implementation & Developer** at [AGMM Soft](https://www.agmmsoft.com/).
-- 🎓 Completed intensive IT training in **Cross-Platform Apps (ASP.NET & Angular)** under the prestigious **IsDB-BISEW IT Scholarship Programme (Round-62)**.
+- 🎓 Completed intensive IT training in **Cross-Platform Apps (ASP.NET & Angular)** under the prestigious **[IsDB-BISEW IT Scholarship Programme (Round-62)](https://www.isdb-bisew.org/it-scholarship-programme)**.
 - 🌱 Deep-diving into **Clean Architecture**, **CQRS (MediatR)**, and **Microservices**.
 - ⚙️ Skilled in the full SDLC, system integration, and advanced technical support.
 - ⚡ **Analytical Mindset:** Coming from a Physics background at the [University of Chittagong](https://cu.ac.bd/), I approach software engineering through the lens of ***First-Principles Thinking***. This training allows me to dissect complex, high-level computational puzzles into foundational logic, enabling me to engineer clean, high-performance, and scalable architecture.
