@@ -1,5 +1,5 @@
 # 👨‍💻 Md. Abu Nayeem (Shuvo)
-### Full-Stack .NET Developer | Software Engineer
+### Full-Stack .NET Developer 
 
 ![Cover Image](https://github.com/A-N-Shuvo/Portfolio/blob/main/1000118830_20251003165224987.jpg)
 
